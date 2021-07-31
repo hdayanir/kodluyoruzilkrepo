@@ -1,4 +1,4 @@
-[Image]()
+![Image](https://github.com/hdayanir/kodluyoruzilkrepo/blob/main/figures/github.png)
 
 # kodluyoruzilkrepo
 
